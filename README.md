@@ -17,6 +17,7 @@ Features:
 - Can possibly set the output frequency to be exactly the right pitch (better than 0.1cents=100ppm of the oscillator).
 - It is possible to set the range of the pitches (i.e. C4-B4 or F4-E5).
 - You can use your imagination to set more features using the side buttons to choose some new set of features.
+- Pressing the "shift" side button will light up the 7leds for a few seconds, so you can see what pitch you are about to play while on a dark stage.
 
 This git repository contains:
 - circuit board with schematic and PCB layout (order from oshpark for about $20 for 3 copies).
